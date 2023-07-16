@@ -1,2 +1,2 @@
 # Quizy
-A Basic Quiz Website which uses javascript and  css functionalities 
+Bored of traditional quiz website design? Tryout this new quiz website for web developers 'Quizy'
